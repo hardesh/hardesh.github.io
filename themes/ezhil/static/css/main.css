@@ -519,11 +519,11 @@ img {
     border-radius: 50%;
 }
 
-img.filter-image {
+/* img.filter-image {
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
+} */
 
 /* p1.filter-text {
     margin-left: auto;
