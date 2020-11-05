@@ -514,3 +514,7 @@ h1{
 ul {
     margin-top: 5px;
 }
+
+img {
+    border-radius: 50%;
+}
