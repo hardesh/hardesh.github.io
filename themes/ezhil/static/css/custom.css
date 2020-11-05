@@ -88,3 +88,11 @@ table th, table td {
 pre code {
   display: inline-block
 }
+
+p1 {
+    font-family: raleway,sans-serif;
+    line-height: 1.2;
+    color: #ddd;
+    font-weight: 500;
+    font-size: x-large;
+}

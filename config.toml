@@ -74,6 +74,11 @@ weight = 3
 #url = "/posts"
 #weight = 4
 
+[[menu.main]]
+name = "CV"
+url = "https://drive.google.com/file/d/1x24BjJaPYE9HILo5xdMbmuG2BdMtjo5i/view?usp=sharing"
+weight = 5
+
 #[[menu.main]]
 #name = "About"
 #url = "/about"
