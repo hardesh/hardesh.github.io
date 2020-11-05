@@ -111,6 +111,10 @@ name = "Youtube"
 icon = "youtube"
 url = "https://www.youtube.com/channel/UC_VeU3r0ZASpYKNpqY8_5WQ/"
 
+[[params.social]]
+name = "Instagram"
+icon = "instagram"
+url = "https://www.instagram.com/thehardesh/"
 
 # Enable tags.
 [taxonomies]
