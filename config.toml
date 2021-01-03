@@ -70,8 +70,8 @@ url = "/projects"
 weight = 3
 
 #[[menu.main]]
-#name = "Posts"
-#url = "/posts"
+#name = "Blog Posts"
+#url = "https://medium.com/@hardesh1deshpande"
 #weight = 4
 
 [[menu.main]]
@@ -104,12 +104,12 @@ url = "https://www.linkedin.com/in/harshal-deshpande/"
 [[params.social]]
 name = "Twitter"
 icon = "twitter"
-url = "https://twitter.com/theharshulk"
+url = "https://twitter.com/thehardesh"
 
 [[params.social]]
 name = "Youtube"
 icon = "youtube"
-url = "https://www.youtube.com/channel/UC_VeU3r0ZASpYKNpqY8_5WQ/"
+url = "https://www.youtube.com/user/StormyDoru"
 
 [[params.social]]
 name = "Instagram"

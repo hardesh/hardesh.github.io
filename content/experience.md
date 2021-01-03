@@ -4,15 +4,21 @@ date: "2020-11-04"
 type: "experience"
 ---
 
-[**Autonomous Robots Lab, University of Nevada, Reno**](https://www.autonomousrobotslab.com/)   
-Undergraduate Research Intern. [July 2020 - Present]
-  - Working on motion planning of quadrotors which can be deployed in geometrically constrained enviroments, under the guidance of Prof. Kostas Alexis.
+[**Peppermint Robots by Aubotz Labs, Pune**](https://www.getpeppermint.co/)
 
------------------------------------------------------
-[**Peppermint Robots by Aubotz Labs, Pune**](https://www.getpeppermint.co/)   
-Robotics Intern. [May 2020 - Present]
+Robotics Engineer. [Jan 2020 - Present]
+  - Working on navigation of autonomous cleaning robots.  
+
+Robotics Intern. [May 2020 - Dec 2020]
   - Developed a web GUI using ROSlibjs and ROS2djs for teleoperation and mapping. Also, integrated ROS with the Qt based GUI on the robot.
   - Worked on visual servo control, to control the robot near the docking station. Worked with Apriltag3 to localise robot near the docking station.
+  - Researched various 2D laser SLAM and VIO/Visual Inertial SLAM algorithms.
+-----------------------------------------------------
+
+[**Autonomous Robots Lab, University of Nevada, Reno**](https://www.autonomousrobotslab.com/)   
+Undergraduate Research Intern. [July 2020 - Dec 2020]
+  - Worked on motion planning of quadrotors which can be deployed in geometrically constrained enviroments, under the guidance of Prof. Kostas Alexis.
+  - Submitted a paper titled, "[Hypergame-based Adaptive Behavior Path Planning for Combined Exploration and Visual Search](https://youtu.be/Nfo-RQ_RCFg)" to IEEE ICRA 2021. 
 
 -----------------------------------------------------
 [**Smart-i Electronics Systems, R&D Department, Pune**](https://www.smartisystems.com/)   
