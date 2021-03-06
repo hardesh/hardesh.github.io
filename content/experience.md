@@ -7,7 +7,7 @@ type: "experience"
 [**Peppermint Robots by Aubotz Labs, Pune**](https://www.getpeppermint.co/)
 
 Robotics Engineer. [Jan 2020 - Present]
-  - Working on navigation of autonomous cleaning robots.  
+  - Working on the software of robots.
 
 Robotics Intern. [May 2020 - Dec 2020]
   - Developed a web GUI using ROSlibjs and ROS2djs for teleoperation and mapping. Also, integrated ROS with the Qt based GUI on the robot.
@@ -18,7 +18,7 @@ Robotics Intern. [May 2020 - Dec 2020]
 [**Autonomous Robots Lab, University of Nevada, Reno**](https://www.autonomousrobotslab.com/)   
 Undergraduate Research Intern. [July 2020 - Dec 2020]
   - Worked on motion planning of quadrotors which can be deployed in geometrically constrained enviroments, under the guidance of Prof. Kostas Alexis.
-  - Submitted a paper titled, "[Hypergame-based Adaptive Behavior Path Planning for Combined Exploration and Visual Search](https://youtu.be/Nfo-RQ_RCFg)" to IEEE ICRA 2021. 
+  - Submitted a manuscript titled, "[Hypergame-based Adaptive Behavior Path Planning for Combined Exploration and Visual Search](https://youtu.be/Nfo-RQ_RCFg)" to IEEE ICRA 2021. The manuscript was accepted at the conference. 
 
 -----------------------------------------------------
 [**Smart-i Electronics Systems, R&D Department, Pune**](https://www.smartisystems.com/)   
