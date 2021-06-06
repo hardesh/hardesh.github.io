@@ -69,10 +69,10 @@ name = "Projects"
 url = "/projects"
 weight = 3
 
-#[[menu.main]]
-#name = "Blog Posts"
-#url = "https://medium.com/@hardesh1deshpande"
-#weight = 4
+[[menu.main]]
+name = "Notes and Blogs"
+url = "/blogsandnotes"
+weight = 4
 
 [[menu.main]]
 name = "CV"
