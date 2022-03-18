@@ -65,19 +65,29 @@ url = "/experience"
 weight = 2
 
 [[menu.main]]
-name = "Projects"
-url = "/projects"
+name = "Experience"
+url = "/experience"
 weight = 3
+
+[[menu.main]]
+name = "Community Service"
+url = "/community_service"
+weight = 4
+
+[[menu.main]]
+name = "Old Projects"
+url = "/projects"
+weight = 5
 
 [[menu.main]]
 name = "Notes and Blogs"
 url = "/blogsandnotes"
-weight = 4
+weight = 6
 
-[[menu.main]]
-name = "CV"
-url = "https://drive.google.com/file/d/1x24BjJaPYE9HILo5xdMbmuG2BdMtjo5i/view?usp=sharing"
-weight = 5
+#[[menu.main]]
+#name = "CV"
+#url = "https://drive.google.com/file/d/1x24BjJaPYE9HILo5xdMbmuG2BdMtjo5i/view?usp=sharing"
+#weight = 5
 
 #[[menu.main]]
 #name = "About"

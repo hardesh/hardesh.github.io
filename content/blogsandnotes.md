@@ -1,5 +1,5 @@
 ---
-title: "Blogs and Notes"
+title: "Notes and Blogs"
 date: "2021-07-18"
 type: "blogsandnotes"
 ---
@@ -9,6 +9,9 @@ __Notes__:
 
 * [Robotics Talks](https://drive.google.com/file/d/1nceWsLXEo_mhD4L0tZQehe-20Nudecps/view?usp=sharing)
 
+* [More Robotics Notes](https://www.notion.so/theharshaldeshpande/Robotics-Notes-b0bcf5e136b242d4a641e30d571ace93)
+
+
 __Blogs__:
 
-Coming soon....
+Blogs are hosted on Notion Page 🙂 : [Notion Blogs](https://theharshaldeshpande.notion.site/Blogs-fdba3a7e54224c49831533036fd162c6)
