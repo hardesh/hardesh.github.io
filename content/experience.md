@@ -1,13 +1,13 @@
 ---
-title: "Experience"
-date: "2021-01-01"
+title: " Work Experience"
+date: "2022-08-20"
 type: "experience"
 ---
 
 [**Peppermint Robots by Aubotz Labs, Pune**](https://www.getpeppermint.co/)
 
 Robotics Team Lead. [Dec 2021 - Present]
-  - Reponsible for many things on day to day basis :)
+  - Reponsible for many things on day to day basis.
 
 Senior Robotics Engineer. [June 2021 - Dec 2021]
   - Working on the software of robots.
@@ -32,3 +32,11 @@ Undergraduate Research Intern. [July 2020 - Dec 2020]
 Summer Internship. [May - July 2019]  
   - Developed an access controller using Bluetooth Low Energy(BLE) module. Worked with PSoC Creator (C Programming), UART protocol, Wiegand protocol, AES encryption.
   - Researched about BLE beacons and using BLE beacons for localization. Implemented simple Eddystone beacon which broadcasted a URL, on nRF51822.
+
+
+-----------------------------------------------------
+#### Community Service
+-----------------------------------------------------
+- Reviewed lightning talks for *ROS World 2021*.
+
+- Reviewed papers for *2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) Sept 27 - Oct 1, 2021, Prague, Czech Republic*.

@@ -2,6 +2,22 @@
 <html>
 {{ partial "header.html" . }}
 
+<style type="text/css">
+	.button {
+	  border: none;
+	  color: white;
+	  padding: 0px 2px;
+	  text-align: center;
+	  text-decoration: none;
+	  display: inline-block;
+	  font-size: 12px;
+	  margin: 2px 2px;
+	  transition-duration: 0.4s;
+	  cursor: pointer;
+	  background-color: transparent;
+	}
+</style>
+
 <body>
 	<div class="container wrapper">
 		{{ partial "head.html" . }}
@@ -10,19 +26,19 @@
 
 		<div class="row">
 			<div style="text-align: center;" class="col-3 col-s-3 img_center">
-				<img style="border-radius: 50%;" src="images/avatar.jpg" />
-				<h1 style="font-weight: 300;">About me</h1>
+				<img style="border-radius: 10%;" src="images/profile_pic_2022.jpg" />
+				<h1 style="font-weight: 100; padding: 0px; margin: 0px;">About me</h1>
 			</div>
-			<div class="col-8 col-s-8">
+			<div class="col-8 col-s-8" id="short_bio">
 				<p>
 					Hello! I'm Robotics Engineer at <a href="https://www.linkedin.com/company/getpeppermint/">Peppermint Robots</a>, 
 					working on autonomous service robots.
 					<br><br>
 					I early graduated from BITS Pilani, where I studied Electronics and Physics and also explored robotics and embedded systems. 
 					<br><br>
-					I’m currently interested in Robotics (particularly motion planning and perception). Apart from Robotics I'm also interested in climate tech and mostly spend time thinking about methods that 
+					Apart from robotics, I'm also interested in climate tech and sometimes spend time thinking about methods that 
 					can be used to reduce global carbon emission, and recently I've also dabbled into blockchain 
-					and crypto.   
+					and crypto.
 				</p>
 			</div>
 		</div>

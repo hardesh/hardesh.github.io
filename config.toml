@@ -70,19 +70,29 @@ url = "/experience"
 weight = 3
 
 [[menu.main]]
-name = "Community Service"
-url = "/community_service"
+name = "Old Projects"
+url = "/projects"
 weight = 4
 
 [[menu.main]]
-name = "Old Projects"
-url = "/projects"
+name = "Notes"
+url = "/notes"
 weight = 5
 
 [[menu.main]]
-name = "Notes and Blogs"
-url = "/blogsandnotes"
+name = "Bookshelf"
+url = "/Bookshelf"
 weight = 6
+
+[[menu.main]]
+name = "Podcasts"
+url = "/podcasts"
+weight = 7
+
+[[menu.main]]
+name = "Substack"
+url = "https://hardesh.substack.com/"
+weight = 8
 
 #[[menu.main]]
 #name = "CV"
@@ -121,10 +131,7 @@ name = "Youtube"
 icon = "youtube"
 url = "https://www.youtube.com/user/StormyDoru"
 
-[[params.social]]
-name = "Instagram"
-icon = "instagram"
-url = "https://www.instagram.com/thehardesh/"
+
 
 # Enable tags.
 [taxonomies]
