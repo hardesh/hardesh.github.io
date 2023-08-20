@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harshal Deshpande</title>
+    <link>https://hardesh.github.io/</link>
+    <description>Recent content on Harshal Deshpande</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © Harshal Deshpande</copyright>
+    <lastBuildDate>Wed, 04 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://hardesh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> Work Experience</title>
+      <link>https://hardesh.github.io/experience/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hardesh.github.io/experience/</guid>
+      <description>Checkout LinkedIn for latest updates: https://www.linkedin.com/in/harshal-deshpande/
+Peppermint Robots by Aubotz Labs, Pune
+Product Lead. [Jan 2023 - Present]
+Robotics Team Lead.</description>
+    </item>
+    
+    <item>
+      <title>Bookshelf</title>
+      <link>https://hardesh.github.io/bookshelf/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hardesh.github.io/bookshelf/</guid>
+      <description>Harshal&amp;#39;s bookshelf: read The Psychology of Money by Morgan Housel The Manager&#39;s Path: A Guide for Tech Leaders Navigating Growth and Change by Camille Fournier The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life by Mark Manson Black Holes: The Reith Lectures by Stephen Hawking Zero to One: Notes on Start Ups, or How to Build the Future by Blake Masters J.</description>
+    </item>
+    
+    <item>
+      <title>Favorite Podcasts</title>
+      <link>https://hardesh.github.io/podcasts/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hardesh.github.io/podcasts/</guid>
+      <description>Lex Fridman&amp;rsquo;s AI Podcast Nikhil Kamat The BarberShop with Shantanu Huberman Lab Podcast Growth from Failure How I Built This with Guy Raz The Good Time Show with Aarthi and Sriram Fall of Civilizations Robot Brains Podcast Watt it takes All in Podcast Some !</description>
+    </item>
+    
+    <item>
+      <title>Notes</title>
+      <link>https://hardesh.github.io/notes/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hardesh.github.io/notes/</guid>
+      <description>Blockchain and Cryptography
+Robotics Talks
+More Robotics Notes</description>
+    </item>
+    
+    <item>
+      <title>Omnibase</title>
+      <link>https://hardesh.github.io/projects/omnibase/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hardesh.github.io/projects/omnibase/</guid>
+      <description>Due to the COVID-19, all of us were restricted to our homes. So, testing the algorithms on an actual robot was close to impossible.</description>
+    </item>
+    
+    <item>
+      <title>Project Kratos</title>
+      <link>https://hardesh.github.io/projects/kratos/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hardesh.github.io/projects/kratos/</guid>
+      <description>Developed the control sub-system of a rover for the Indian Rover Chanllenge, 2020.
+Worked on the design of the robotic manipulator on the rover.</description>
+    </item>
+    
+    <item>
+      <title>Trotbot</title>
+      <link>https://hardesh.github.io/projects/trotbot/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hardesh.github.io/projects/trotbot/</guid>
+      <description>Trotbot is a robot designed to serve as a delivery robot in an indoor environment. The deliverables will be placed inside the container.</description>
+    </item>
+    
+    <item>
+      <title>When You Have Too Much to Do</title>
+      <link>https://hardesh.github.io/posts/post1/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hardesh.github.io/posts/post1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAVROS Controllers</title>
+      <link>https://hardesh.github.io/projects/mavros_control/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hardesh.github.io/projects/mavros_control/</guid>
+      <description>Developed some controllers for a delivery drone project using the PX4. The controllers were tested on an agent in Gazebo.</description>
+    </item>
+    
+    <item>
+      <title>Fall Detection System</title>
+      <link>https://hardesh.github.io/projects/fall_detection/</link>
+      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hardesh.github.io/projects/fall_detection/</guid>
+      <description>Developed a fall detection system using STM-32F103. Used MPU-6050 to get the inertial measurements. Data was sent to an app using a bluetooth module.</description>
+    </item>
+    
+    <item>
+      <title>BLE for access control</title>
+      <link>https://hardesh.github.io/projects/ble_access/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hardesh.github.io/projects/ble_access/</guid>
+      <description>Worked on this project during my summer internship at Smart-i Electronics Systems, Pune. Project Mentor: Siddesh Madiwale
+Here are some highlights of the project:</description>
+    </item>
+    
+  </channel>
+</rss>
