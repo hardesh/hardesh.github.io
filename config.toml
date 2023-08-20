@@ -131,6 +131,11 @@ name = "Youtube"
 icon = "youtube"
 url = "https://www.youtube.com/user/StormyDoru"
 
+[[params.social]]
+name = "Instagram"
+icon = "instagram"
+url = "https://www.instagram.com/thehardesh/"
+
 
 
 # Enable tags.
